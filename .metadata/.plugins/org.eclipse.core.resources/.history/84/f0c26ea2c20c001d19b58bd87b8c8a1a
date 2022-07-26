@@ -15,8 +15,7 @@ public class Main {
 		System.out.println(subscription1.getService().getName());
 		System.out.println(individualCustomer1.getFirstName());
 		System.out.println(subscription1.getCustomer().getCustomerNumber());
-		//devam edeceğiz
-		//ediyoruz
+		
 		
 
 	}
