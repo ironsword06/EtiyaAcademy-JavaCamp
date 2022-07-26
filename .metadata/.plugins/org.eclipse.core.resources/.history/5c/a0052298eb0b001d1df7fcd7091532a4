@@ -1,0 +1,19 @@
+package ws3;
+
+import java.util.List;
+import java.util.Arraylist;
+
+public class UserManager {
+
+	private List<User>users new ArrayList<User>();
+	
+	
+	public void register(User user) {
+	System.out.println(user.getNotificationService()+"Kayıt gerçekleşti");
+	users.add(user);
+}
+public void forgetPassword(User user) {
+	System.out.println();
+	
+}
+}

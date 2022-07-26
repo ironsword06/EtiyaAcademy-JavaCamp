@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="oop1.ProductService"/>
+    <fullyQualifiedTypeName name="generics.DataRepository"/>
+    <fullyQualifiedTypeName name="oop2.DatabaseLogger"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Constructor"/>
+    <fullyQualifiedTypeName name="oop2.EmployeeManager"/>
+    <fullyQualifiedTypeName name="ws3.SmsNotification"/>
+    <fullyQualifiedTypeName name="ws3.UserManager"/>
+    <fullyQualifiedTypeName name="ws3.NotificationService"/>
+    <fullyQualifiedTypeName name="ws3.EmailNotification"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="telkoProject.Service"/>
+    <fullyQualifiedTypeName name="telkoProject.Customer"/>
+    <fullyQualifiedTypeName name="telkoProject.IndividualCustomer"/>
+    <fullyQualifiedTypeName name="telkoProject.CorporateCustomer"/>
+    <fullyQualifiedTypeName name="telkoProject.Subscription"/>
+    <fullyQualifiedTypeName name="telkoProject.Invoice"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+</qualifiedTypeNameHistroy>

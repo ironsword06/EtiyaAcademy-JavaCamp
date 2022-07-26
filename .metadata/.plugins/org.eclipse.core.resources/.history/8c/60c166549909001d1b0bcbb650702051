@@ -1,0 +1,12 @@
+package oop2;
+
+public class EmployeeManager {
+	private Logger logger;
+	public EmployeeManager(Logger logger){
+		this.logger= logger;
+		
+	}
+	
+
+}
+//çoklu loglama imkani getiriniz 

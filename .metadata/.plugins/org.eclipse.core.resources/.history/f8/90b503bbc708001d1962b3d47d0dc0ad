@@ -1,0 +1,25 @@
+package oop1;
+
+public class Main {
+	public static void main(String[] args) {
+Product product1 = new Product();
+product1.id =1;
+product1.name ="Volley ball";
+product1.unitPrice =99;
+
+Product product2 = new Product();
+product1.id =2;
+product1.name ="Volley ball";
+product1.unitPrice =99;
+
+Product product3 = new Product();
+product1.id =2;
+product1.name ="Volley ball";
+product1.unitPrice =99;
+	}
+	
+}
+
+
+
+

@@ -1,0 +1,16 @@
+package ws3;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class Main {
+
+	public static void main(String[] args) {
+		List<User>users= new ArrayList<User>();
+		NotificationService service1 = new SmsNotification();
+		User user1= new User(0,"Alican",service1);
+		
+
+	}
+
+}

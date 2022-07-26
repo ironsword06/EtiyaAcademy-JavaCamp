@@ -1,0 +1,10 @@
+breadcrumb.org.eclipse.jdt.ui.JavaPerspective=true
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="oop1.ProductService"><rhs name\="oop1.ProductService"/></lhs><lhs name\="generics.DataRepository"><rhs name\="generics.DataRepository"/></lhs><lhs name\="oop2.Logger"><rhs name\="oop2.DatabaseLogger"/></lhs><lhs name\="oop2.DatabaseLogger"><rhs name\="oop2.DatabaseLogger"/></lhs><lhs name\="oop2.EmployeeManager"><rhs name\="oop2.EmployeeManager"/></lhs><lhs name\="java.util.Collection"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.lang.Iterable"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.List"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="ws3.NotificationService"><rhs name\="ws3.SmsNotification"/><rhs name\="ws3.EmailNotification"/></lhs><lhs name\="ws3.UserManager"><rhs name\="ws3.UserManager"/></lhs><lhs name\="telkoProject.Service"><rhs name\="telkoProject.Service"/></lhs><lhs name\="telkoProject.Customer"><rhs name\="telkoProject.Customer"/><rhs name\="telkoProject.IndividualCustomer"/><rhs name\="telkoProject.CorporateCustomer"/></lhs><lhs name\="telkoProject.IndividualCustomer"><rhs name\="telkoProject.IndividualCustomer"/></lhs><lhs name\="telkoProject.CorporateCustomer"><rhs name\="telkoProject.CorporateCustomer"/></lhs><lhs name\="telkoProject.Subscription"><rhs name\="telkoProject.Subscription"/></lhs><lhs name\="telkoProject.Invoice"><rhs name\="telkoProject.Invoice"/></lhs></history>
+content_assist_number_of_computers=17
+eclipse.preferences.version=1
+markOccurrences=false
+org.eclipse.jdt.ui.formatterprofiles.version=22
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

@@ -1,0 +1,8 @@
+package telkoProject;
+
+public class Service {
+
+	int id;
+String name;
+
+}

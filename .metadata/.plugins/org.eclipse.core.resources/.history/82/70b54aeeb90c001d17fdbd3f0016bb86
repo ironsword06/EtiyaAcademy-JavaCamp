@@ -1,0 +1,42 @@
+package telkoProject;
+
+import java.util.List;
+
+public class Customer {
+private	int id;
+private	String customerNumber;
+private List<Invoice>invoices;
+public Customer() {
+	
+}
+public Customer(int id, String customerNumber,List<Invoice>invoices ) {
+	super();
+	this.id = id;
+	this.customerNumber = customerNumber;
+	this.invoices=invoices;
+}
+
+public int getId() {
+	return id;
+}
+
+public void setId(int id) {
+	this.id = id;
+}
+
+public String getCustomerNumber() {
+	return customerNumber;
+}
+
+public void setCustomerNumber(String customerNumber) {
+	this.customerNumber = customerNumber;
+}
+public List<Invoice> getInvoices() {
+	return invoices;
+}
+public void setInvoices(List<Invoice> invoices) {
+	this.invoices = invoices;
+}
+
+
+}

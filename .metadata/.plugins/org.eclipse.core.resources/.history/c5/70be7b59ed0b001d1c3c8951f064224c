@@ -1,0 +1,19 @@
+package ws3;
+
+import java.util.List;
+
+public class Main {
+
+	public static void main(String[] args) {
+		List<User>users= new ArrayList<User>();
+		NotificationService service1 = new SmsNotification();
+		NotificationService service2= new EmailNotification();
+				
+		User user1= new User(0,"Alican","Demirkılıç",service1);
+		User user2 new User(0,"abb","eee",service2);
+		UserManager userManager = new UserManager();
+		userManager.register(user1);
+		userManager.getUsers();
+	}
+
+}

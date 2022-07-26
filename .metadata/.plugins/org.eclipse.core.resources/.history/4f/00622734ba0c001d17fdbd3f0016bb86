@@ -1,0 +1,11 @@
+package telkoProject;
+
+public class IndividualCustomer extends Customer {
+private String nationalIdentity;
+private String firstName;
+private String lastName;
+
+public IndividualCustomer() {
+	
+}
+}

@@ -1,0 +1,8 @@
+package oop1;
+
+public class Category {
+private int id;
+private String name;
+
+
+}

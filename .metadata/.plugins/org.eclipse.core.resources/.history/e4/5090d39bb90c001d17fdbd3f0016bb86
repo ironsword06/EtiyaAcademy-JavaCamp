@@ -1,0 +1,10 @@
+package telkoProject;
+
+import java.time.LocalDate;
+
+public class Invoice {
+private int id;
+private int subscriptionId;
+private LocalDate dateCreated;
+private LocalDate dueDate;
+}
