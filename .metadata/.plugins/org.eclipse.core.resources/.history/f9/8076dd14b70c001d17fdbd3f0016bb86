@@ -1,5 +1,0 @@
-package telkoProject;
-
-public class CorporateCustomer extends Customer {
-
-}

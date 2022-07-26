@@ -1,8 +1,0 @@
-package telkoProject;
-
-public class Services {
-
-	int id;
-String name;
-
-}

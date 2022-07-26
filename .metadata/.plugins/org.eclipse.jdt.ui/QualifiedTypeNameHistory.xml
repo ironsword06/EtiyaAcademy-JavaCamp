@@ -20,4 +20,5 @@
     <fullyQualifiedTypeName name="telkoProject.Subscription"/>
     <fullyQualifiedTypeName name="telkoProject.Invoice"/>
     <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="telkoProject.Address"/>
 </qualifiedTypeNameHistroy>
