@@ -12,7 +12,6 @@
     <fullyQualifiedTypeName name="ws3.NotificationService"/>
     <fullyQualifiedTypeName name="ws3.EmailNotification"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="telkoProject.Service"/>
     <fullyQualifiedTypeName name="telkoProject.Customer"/>
     <fullyQualifiedTypeName name="telkoProject.IndividualCustomer"/>
@@ -21,4 +20,5 @@
     <fullyQualifiedTypeName name="telkoProject.Invoice"/>
     <fullyQualifiedTypeName name="java.time.LocalDate"/>
     <fullyQualifiedTypeName name="telkoProject.Address"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
 </qualifiedTypeNameHistroy>
