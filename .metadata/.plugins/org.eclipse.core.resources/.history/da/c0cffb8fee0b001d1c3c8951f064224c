@@ -1,8 +1,0 @@
-package ws3;
-
-public class EmailNotification implements NotificationService {
-	public void message(String message) {
-		System.out.println("Email çalıştı");
-	}
-
-}
